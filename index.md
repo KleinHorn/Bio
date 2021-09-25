@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Hi there 👋
+## I'm David
+<img height="400px" src="https://kleinhorn.com/wp-content/uploads/2020/12/Davd_with_horn.jpg" />
 
-You can use the [editor on GitHub](https://github.com/KleinHorn/Bio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![David's Github Stats](https://github-readme-stats.vercel.app/api?username=kleinhorn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bio
 
-### Markdown
+David Klein (b. 1999) is a student at Florida Atlantic University who is working towards his Bachelors in Music Education will be graduating in 2021. David aims to be a high-school music educator as well as performing on french horn. When he is not in a practice room or the library, he spends his time working on his website, programming computers, studying Italian, and reading books on his hammock on campus.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills 
 
-```markdown
-Syntax highlighted code block
+- French Horn Performance
+- 🐱 Cat belly scratching 
+- Linux
+- Mac
+- Windows
+- 🥋Brazilian Jiu Jitsu
 
-# Header 1
-## Header 2
-### Header 3
+## Programming Languages
 
-- Bulleted
-- List
+<table>
+    <tbody>
+        <tr valign="top">
+            <td width="25%" align="center">
+                <span><strong>Python</strong></span
+                ><br /><br /><br />
+                <img
+                    height="100px"
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+                />
+            </td>
+            <td width="25%" align="center">
+                <span><strong>JavaScript</strong></span
+                ><br /><br /><br />
+                <img
+                    height="64px"
+                    src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"
+                />
+            </td>
+            <td width="25%" align="center">
+                <span><strong>Git</strong></span
+                ><br /><br /><br />
+                <img
+                    height="64px"
+                    src="https://cdn.svgporn.com/logos/git-icon.svg"
+                />
+            </td>
+            <td width="25%" align="center">
+                <span><strong>Vs Code</strong></span
+                ><br /><br /><br />
+                <img
+                    height="64px"
+                    src="https://cdn.svgporn.com/logos/visual-studio-code.svg"
+                />
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-1. Numbered
-2. List
+## Personal Note
 
-**Bold** and _Italic_ and `Code` text
+I am looking forward to learning everything I can from you guys. This will be one of my first large programming projects and I aim to improve at this craft so if you ever have any feedback, insight for me, feel free to share!
 
-[Link](url) and ![Image](src)
-```
+[LinkedIn 💼](https://www.linkedin.com/in/kleinhorn/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Website 🌍](https://kleinhorn.com)
 
-### Jekyll Themes
+[Email 📬](mailto:david@kleinhorn.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KleinHorn/Bio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
